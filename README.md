@@ -15,24 +15,4 @@ A streamlined, highly optimized React web application for exploring open aviatio
 *   **Styling**: Vanilla CSS (modularized utility classes)
 *   **Bundler/Server**: Vite 8
 
-## 🛠️ Getting Started
 
-### 1. Install Dependencies
-Install only the absolute necessary packages for building and running:
-```bash
-npm install
-```
-
-### 2. Start Development Server
-Launch the local dev server:
-```bash
-npm run dev
-```
-Open **[http://localhost:5173/](http://localhost:5173/)** in your browser.
-
-### 3. Production Build
-Compile and bundle the production assets:
-```bash
-npm run build
-```
-The optimized bundle will be generated under the `dist/` directory.
